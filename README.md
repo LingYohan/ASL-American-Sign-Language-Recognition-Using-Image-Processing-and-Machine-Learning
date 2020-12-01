@@ -1,7 +1,7 @@
 DataCollection.py - reads, manages and adds additional data to the datset
 
 
-Train.py -  train's the model 
+Train.py -  trains the model 
 
 
 
